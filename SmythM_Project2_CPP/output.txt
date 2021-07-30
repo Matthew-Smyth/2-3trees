@@ -1,0 +1,9 @@
+Password rules:
+Password length: 8-32 characters
+At least one numerical, i.e., 0, 1, 2,..
+At least one upper case letter, i.e., A, B, C, ...
+At least one lower case letter, i.e., a, b, c, ...
+At least one of the special characters, but it must be within the set:{ # $ * ( ) % & ^} a total of eight (8) special characters. no other special characters are allowed.
+Please enter password: Incorrect password lengthPlease enter password: Password1#
+Reenter Password: nopeMatch fail
+Reenter Password: Password1#Your password will be updated in a few minutes!
