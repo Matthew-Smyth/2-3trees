@@ -1,0 +1,147 @@
+Table [1][32]: (dummyNode, Eunhee     ) -> (Eunhee     , Krzysztof  ) -> (Krzysztof  , Gurnoor    ) -> (Gurnoor    , Shadman    ) -> (Shadman    , Talha      ) -> (Talha      , Edwin      ) -> (Edwin      , Angel      ) -> (Angel      , Shahan     ) -> (Shahan     , Jason      ) -> (Jason      , Alexis     ) -> (Alexis     , Ryan       ) -> (Ryan       , Jephter    ) -> (Jephter    , Vincenzo   ) -> (Vincenzo   , Shelley    ) -> (Shelley    , Thomas     ) -> (Thomas     , Jamil      ) -> (Jamil      , Amreen     ) -> (Amreen     , Rajendra   ) -> (Rajendra   , Jordon     ) -> (Jordon     , Murgray    ) -> (Murgray    , Lei        ) -> (Lei        , Joshua     ) -> (Joshua     , Rashad     ) -> (Rashad     , Umair      ) -> (Umair      , Abeesh     ) -> (Abeesh     , Aaron      ) -> (Aaron      , Tenzin     ) -> (Tenzin     , Archimed   ) -> (Archimed   , Wilber     ) -> (Wilber     , Asher      ) -> (Asher      , Bijaya     ) -> (Bijaya     , Carlos     ) -> (Carlos     , Roberto    ) -> (Roberto    , Christos   ) -> (Christos   , Jonathan   ) -> (Jonathan   , Martin     ) -> (Martin     , Steven     ) -> (Steven     , Lei        ) -> (Lei        , Nectario   ) -> (Nectario   , Zaynab     ) -> (Zaynab     , Matthew    ) -> (Matthew    , Calvin     ) -> (Calvin     , Wong       ) -> (Wong       , Bret       ) -> (Bret       , Kenley     ) -> (Kenley     , Jason      ) -> (Jason      , Juan       ) -> (Juan       , Justin     ) -> (Justin     , Russell    ) -> (Russell    , Yulin      ) -> (Yulin      , Weiting    ) -> (Weiting    , Rupert     ) -> (Rupert     , Ye         ) -> (Ye         , Jiawei     ) -> (Jiawei     , Michael    ) -> (Michael    , Frederick  ) -> (Frederick  , Naiem      ) -> (Naiem      , Matthew    ) -> (Matthew    , Kevin      ) -> (Kevin      , Yuhang     ) -> (Yuhang     , Nahian     ) -> (Nahian     , Jianhui    ) -> (Jianhui    , Hammad     ) -> (Hammad     , Robert     ) -> (Robert     , Hyungbin   ) -> (Hyungbin   , null) -> NULL
+Table [1][114]: (dummyNode, Christopher) -> (Christopher, null) -> NULL
+
+Table [0][32]: (dummyNode, Eunhee     ) -> (Eunhee     , Gurnoor    ) -> (Gurnoor    , Shadman    ) -> (Shadman    , Talha      ) -> (Talha      , Edwin      ) -> (Edwin      , Angel      ) -> (Angel      , Shahan     ) -> (Shahan     , Jason      ) -> (Jason      , Alexis     ) -> (Alexis     , Ryan       ) -> (Ryan       , Jephter    ) -> (Jephter    , Vincenzo   ) -> (Vincenzo   , Shelley    ) -> (Shelley    , Thomas     ) -> (Thomas     , Jamil      ) -> (Jamil      , Amreen     ) -> (Amreen     , Rajendra   ) -> (Rajendra   , Jordon     ) -> (Jordon     , Murgray    ) -> (Murgray    , Lei        ) -> (Lei        , Joshua     ) -> (Joshua     , Rashad     ) -> (Rashad     , Umair      ) -> (Umair      , Abeesh     ) -> (Abeesh     , Aaron      ) -> (Aaron      , Tenzin     ) -> (Tenzin     , Archimed   ) -> (Archimed   , Wilber     ) -> (Wilber     , Asher      ) -> (Asher      , Bijaya     ) -> (Bijaya     , Carlos     ) -> (Carlos     , Roberto    ) -> (Roberto    , Christos   ) -> (Christos   , Jonathan   ) -> (Jonathan   , Martin     ) -> (Martin     , Steven     ) -> (Steven     , Lei        ) -> (Lei        , Nectario   ) -> (Nectario   , Zaynab     ) -> (Zaynab     , Matthew    ) -> (Matthew    , Calvin     ) -> (Calvin     , Wong       ) -> (Wong       , Bret       ) -> (Bret       , Kenley     ) -> (Kenley     , Jason      ) -> (Jason      , Juan       ) -> (Juan       , Justin     ) -> (Justin     , Russell    ) -> (Russell    , Yulin      ) -> (Yulin      , Weiting    ) -> (Weiting    , Rupert     ) -> (Rupert     , Ye         ) -> (Ye         , Jiawei     ) -> (Jiawei     , Michael    ) -> (Michael    , Naiem      ) -> (Naiem      , Matthew    ) -> (Matthew    , Kevin      ) -> (Kevin      , Yuhang     ) -> (Yuhang     , Nahian     ) -> (Nahian     , Jianhui    ) -> (Jianhui    , Hammad     ) -> (Hammad     , Robert     ) -> (Robert     , Hyungbin   ) -> (Hyungbin   , null) -> NULL
+Table [0][102]: (dummyNode, Krzysztof  ) -> (Krzysztof  , null) -> NULL
+Table [0][104]: (dummyNode, Christopher) -> (Christopher, null) -> NULL
+Table [0][107]: (dummyNode, Frederick  ) -> (Frederick  , null) -> NULL
+
+Table [1][32]: (dummyNode, Eunhee     ) -> (Eunhee     , Gurnoor    ) -> (Gurnoor    , Shadman    ) -> (Shadman    , Talha      ) -> (Talha      , Edwin      ) -> (Edwin      , Angel      ) -> (Angel      , Shahan     ) -> (Shahan     , Jason      ) -> (Jason      , Alexis     ) -> (Alexis     , Ryan       ) -> (Ryan       , Jephter    ) -> (Jephter    , Shelley    ) -> (Shelley    , Thomas     ) -> (Thomas     , Jamil      ) -> (Jamil      , Amreen     ) -> (Amreen     , Jordon     ) -> (Jordon     , Murgray    ) -> (Murgray    , Lei        ) -> (Lei        , Joshua     ) -> (Joshua     , Rashad     ) -> (Rashad     , Umair      ) -> (Umair      , Abeesh     ) -> (Abeesh     , Aaron      ) -> (Aaron      , Tenzin     ) -> (Tenzin     , Wilber     ) -> (Wilber     , Asher      ) -> (Asher      , Bijaya     ) -> (Bijaya     , Carlos     ) -> (Carlos     , Roberto    ) -> (Roberto    , Martin     ) -> (Martin     , Steven     ) -> (Steven     , Lei        ) -> (Lei        , Zaynab     ) -> (Zaynab     , Matthew    ) -> (Matthew    , Calvin     ) -> (Calvin     , Wong       ) -> (Wong       , Bret       ) -> (Bret       , Kenley     ) -> (Kenley     , Jason      ) -> (Jason      , Juan       ) -> (Juan       , Justin     ) -> (Justin     , Russell    ) -> (Russell    , Yulin      ) -> (Yulin      , Weiting    ) -> (Weiting    , Rupert     ) -> (Rupert     , Ye         ) -> (Ye         , Jiawei     ) -> (Jiawei     , Michael    ) -> (Michael    , Naiem      ) -> (Naiem      , Matthew    ) -> (Matthew    , Kevin      ) -> (Kevin      , Yuhang     ) -> (Yuhang     , Nahian     ) -> (Nahian     , Jianhui    ) -> (Jianhui    , Hammad     ) -> (Hammad     , Robert     ) -> (Robert     , null) -> NULL
+Table [1][97]: (dummyNode, Rajendra   ) -> (Rajendra   , null) -> NULL
+Table [1][99]: (dummyNode, Frederick  ) -> (Frederick  , null) -> NULL
+Table [1][100]: (dummyNode, Archimed   ) -> (Archimed   , null) -> NULL
+Table [1][110]: (dummyNode, Jonathan   ) -> (Jonathan   , Hyungbin   ) -> (Hyungbin   , null) -> NULL
+Table [1][111]: (dummyNode, Vincenzo   ) -> (Vincenzo   , Nectario   ) -> (Nectario   , Krzysztof  ) -> (Krzysztof  , null) -> NULL
+Table [1][112]: (dummyNode, Christopher) -> (Christopher, null) -> NULL
+Table [1][115]: (dummyNode, Christos   ) -> (Christos   , null) -> NULL
+
+Table [0][32]: (dummyNode, Eunhee     ) -> (Eunhee     , Talha      ) -> (Talha      , Edwin      ) -> (Edwin      , Angel      ) -> (Angel      , Shahan     ) -> (Shahan     , Jason      ) -> (Jason      , Alexis     ) -> (Alexis     , Ryan       ) -> (Ryan       , Thomas     ) -> (Thomas     , Jamil      ) -> (Jamil      , Amreen     ) -> (Amreen     , Jordon     ) -> (Jordon     , Lei        ) -> (Lei        , Joshua     ) -> (Joshua     , Rashad     ) -> (Rashad     , Umair      ) -> (Umair      , Abeesh     ) -> (Abeesh     , Aaron      ) -> (Aaron      , Tenzin     ) -> (Tenzin     , Wilber     ) -> (Wilber     , Asher      ) -> (Asher      , Bijaya     ) -> (Bijaya     , Carlos     ) -> (Carlos     , Martin     ) -> (Martin     , Steven     ) -> (Steven     , Lei        ) -> (Lei        , Zaynab     ) -> (Zaynab     , Calvin     ) -> (Calvin     , Wong       ) -> (Wong       , Bret       ) -> (Bret       , Kenley     ) -> (Kenley     , Jason      ) -> (Jason      , Juan       ) -> (Juan       , Justin     ) -> (Justin     , Yulin      ) -> (Yulin      , Rupert     ) -> (Rupert     , Ye         ) -> (Ye         , Jiawei     ) -> (Jiawei     , Naiem      ) -> (Naiem      , Kevin      ) -> (Kevin      , Yuhang     ) -> (Yuhang     , Nahian     ) -> (Nahian     , Hammad     ) -> (Hammad     , Robert     ) -> (Robert     , null) -> NULL
+Table [0][97]: (dummyNode, Jonathan   ) -> (Jonathan   , null) -> NULL
+Table [0][101]: (dummyNode, Archimed   ) -> (Archimed   , null) -> NULL
+Table [0][103]: (dummyNode, Weiting    ) -> (Weiting    , null) -> NULL
+Table [0][105]: (dummyNode, Jianhui    ) -> (Jianhui    , Frederick  ) -> (Frederick  , Hyungbin   ) -> (Hyungbin   , Nectario   ) -> (Nectario   , null) -> NULL
+Table [0][108]: (dummyNode, Russell    ) -> (Russell    , Michael    ) -> (Michael    , null) -> NULL
+Table [0][110]: (dummyNode, Shadman    ) -> (Shadman    , null) -> NULL
+Table [0][111]: (dummyNode, Roberto    ) -> (Roberto    , Christopher) -> (Christopher, Christos   ) -> (Christos   , null) -> NULL
+Table [0][114]: (dummyNode, Gurnoor    ) -> (Gurnoor    , Jephter    ) -> (Jephter    , Rajendra   ) -> (Rajendra   , null) -> NULL
+Table [0][116]: (dummyNode, Krzysztof  ) -> (Krzysztof  , null) -> NULL
+Table [0][119]: (dummyNode, Matthew    ) -> (Matthew    , Matthew    ) -> (Matthew    , null) -> NULL
+Table [0][121]: (dummyNode, Shelley    ) -> (Shelley    , Murgray    ) -> (Murgray    , null) -> NULL
+Table [0][122]: (dummyNode, Vincenzo   ) -> (Vincenzo   , null) -> NULL
+
+Table [1][32]: (dummyNode, Talha      ) -> (Talha      , Edwin      ) -> (Edwin      , Angel      ) -> (Angel      , Jason      ) -> (Jason      , Ryan       ) -> (Ryan       , Jamil      ) -> (Jamil      , Lei        ) -> (Lei        , Umair      ) -> (Umair      , Aaron      ) -> (Aaron      , Asher      ) -> (Asher      , Lei        ) -> (Lei        , Wong       ) -> (Wong       , Bret       ) -> (Bret       , Jason      ) -> (Jason      , Juan       ) -> (Juan       , Yulin      ) -> (Yulin      , Ye         ) -> (Ye         , Naiem      ) -> (Naiem      , Kevin      ) -> (Kevin      , null) -> NULL
+Table [1][97]: (dummyNode, Joshua     ) -> (Joshua     , Bijaya     ) -> (Bijaya     , Shadman    ) -> (Shadman    , Murgray    ) -> (Murgray    , null) -> NULL
+Table [1][98]: (dummyNode, Zaynab     ) -> (Zaynab     , Hyungbin   ) -> (Hyungbin   , null) -> NULL
+Table [1][100]: (dummyNode, Rashad     ) -> (Rashad     , Hammad     ) -> (Hammad     , Rajendra   ) -> (Rajendra   , null) -> NULL
+Table [1][101]: (dummyNode, Eunhee     ) -> (Eunhee     , Michael    ) -> (Michael    , Jephter    ) -> (Jephter    , Matthew    ) -> (Matthew    , Matthew    ) -> (Matthew    , Shelley    ) -> (Shelley    , null) -> NULL
+Table [1][103]: (dummyNode, Yuhang     ) -> (Yuhang     , null) -> NULL
+Table [1][104]: (dummyNode, Abeesh     ) -> (Abeesh     , Jonathan   ) -> (Jonathan   , null) -> NULL
+Table [1][105]: (dummyNode, Jiawei     ) -> (Jiawei     , null) -> NULL
+Table [1][108]: (dummyNode, Russell    ) -> (Russell    , null) -> NULL
+Table [1][109]: (dummyNode, Archimed   ) -> (Archimed   , null) -> NULL
+Table [1][110]: (dummyNode, Shahan     ) -> (Shahan     , Amreen     ) -> (Amreen     , Jordon     ) -> (Jordon     , Tenzin     ) -> (Tenzin     , Martin     ) -> (Martin     , Steven     ) -> (Steven     , Calvin     ) -> (Calvin     , Justin     ) -> (Justin     , Nahian     ) -> (Nahian     , Weiting    ) -> (Weiting    , Vincenzo   ) -> (Vincenzo   , null) -> NULL
+Table [1][111]: (dummyNode, Gurnoor    ) -> (Gurnoor    , null) -> NULL
+Table [1][114]: (dummyNode, Wilber     ) -> (Wilber     , Frederick  ) -> (Frederick  , Nectario   ) -> (Nectario   , null) -> NULL
+Table [1][115]: (dummyNode, Alexis     ) -> (Alexis     , Thomas     ) -> (Thomas     , Carlos     ) -> (Carlos     , null) -> NULL
+Table [1][116]: (dummyNode, Rupert     ) -> (Rupert     , Robert     ) -> (Robert     , Roberto    ) -> (Roberto    , Christopher) -> (Christopher, Christos   ) -> (Christos   , null) -> NULL
+Table [1][117]: (dummyNode, Jianhui    ) -> (Jianhui    , null) -> NULL
+Table [1][121]: (dummyNode, Kenley     ) -> (Kenley     , null) -> NULL
+Table [1][122]: (dummyNode, Krzysztof  ) -> (Krzysztof  , null) -> NULL
+
+Table [0][32]: (dummyNode, Ryan       ) -> (Ryan       , Lei        ) -> (Lei        , Lei        ) -> (Lei        , Wong       ) -> (Wong       , Bret       ) -> (Bret       , Juan       ) -> (Juan       , Ye         ) -> (Ye         , null) -> NULL
+Table [0][97]: (dummyNode, Talha      ) -> (Talha      , Zaynab     ) -> (Zaynab     , Rashad     ) -> (Rashad     , Hammad     ) -> (Hammad     , Michael    ) -> (Michael    , Shahan     ) -> (Shahan     , Nahian     ) -> (Nahian     , Nectario   ) -> (Nectario   , Thomas     ) -> (Thomas     , null) -> NULL
+Table [0][101]: (dummyNode, Eunhee     ) -> (Eunhee     , Jiawei     ) -> (Jiawei     , Russell    ) -> (Russell    , Amreen     ) -> (Amreen     , Steven     ) -> (Steven     , Vincenzo   ) -> (Vincenzo   , Wilber     ) -> (Wilber     , Frederick  ) -> (Frederick  , Kenley     ) -> (Kenley     , null) -> NULL
+Table [0][103]: (dummyNode, Hyungbin   ) -> (Hyungbin   , null) -> NULL
+Table [0][104]: (dummyNode, Matthew    ) -> (Matthew    , Matthew    ) -> (Matthew    , Jianhui    ) -> (Jianhui    , null) -> NULL
+Table [0][105]: (dummyNode, Archimed   ) -> (Archimed   , Tenzin     ) -> (Tenzin     , Martin     ) -> (Martin     , Calvin     ) -> (Calvin     , Justin     ) -> (Justin     , Weiting    ) -> (Weiting    , Alexis     ) -> (Alexis     , null) -> NULL
+Table [0][108]: (dummyNode, Angel      ) -> (Angel      , Jamil      ) -> (Jamil      , Shelley    ) -> (Shelley    , null) -> NULL
+Table [0][109]: (dummyNode, Naiem      ) -> (Naiem      , Shadman    ) -> (Shadman    , null) -> NULL
+Table [0][110]: (dummyNode, Edwin      ) -> (Edwin      , Jason      ) -> (Jason      , Aaron      ) -> (Aaron      , Jason      ) -> (Jason      , Yulin      ) -> (Yulin      , Kevin      ) -> (Kevin      , Rajendra   ) -> (Rajendra   , Yuhang     ) -> (Yuhang     , null) -> NULL
+Table [0][111]: (dummyNode, Jordon     ) -> (Jordon     , Gurnoor    ) -> (Gurnoor    , Carlos     ) -> (Carlos     , null) -> NULL
+Table [0][114]: (dummyNode, Umair      ) -> (Umair      , Asher      ) -> (Asher      , Murgray    ) -> (Murgray    , Rupert     ) -> (Rupert     , Robert     ) -> (Robert     , Roberto    ) -> (Roberto    , null) -> NULL
+Table [0][115]: (dummyNode, Abeesh     ) -> (Abeesh     , Christopher) -> (Christopher, Christos   ) -> (Christos   , Krzysztof  ) -> (Krzysztof  , null) -> NULL
+Table [0][116]: (dummyNode, Jephter    ) -> (Jephter    , Jonathan   ) -> (Jonathan   , null) -> NULL
+Table [0][117]: (dummyNode, Joshua     ) -> (Joshua     , null) -> NULL
+Table [0][121]: (dummyNode, Bijaya     ) -> (Bijaya     , null) -> NULL
+
+Table [1][32]: (dummyNode, Lei        ) -> (Lei        , Lei        ) -> (Lei        , Ye         ) -> (Ye         , null) -> NULL
+Table [1][97]: (dummyNode, Yuhang     ) -> (Yuhang     , Jonathan   ) -> (Jonathan   , Bijaya     ) -> (Bijaya     , null) -> NULL
+Table [1][98]: (dummyNode, Wilber     ) -> (Wilber     , null) -> NULL
+Table [1][99]: (dummyNode, Vincenzo   ) -> (Vincenzo   , null) -> NULL
+Table [1][100]: (dummyNode, Frederick  ) -> (Frederick  , Shadman    ) -> (Shadman    , Jordon     ) -> (Jordon     , null) -> NULL
+Table [1][101]: (dummyNode, Amreen     ) -> (Amreen     , Angel      ) -> (Angel      , Naiem      ) -> (Naiem      , Rajendra   ) -> (Rajendra   , Asher      ) -> (Asher      , Rupert     ) -> (Rupert     , Robert     ) -> (Robert     , Roberto    ) -> (Roberto    , Abeesh     ) -> (Abeesh     , null) -> NULL
+Table [1][103]: (dummyNode, Wong       ) -> (Wong       , Murgray    ) -> (Murgray    , null) -> NULL
+Table [1][104]: (dummyNode, Talha      ) -> (Talha      , Rashad     ) -> (Rashad     , Michael    ) -> (Michael    , Shahan     ) -> (Shahan     , Eunhee     ) -> (Eunhee     , Archimed   ) -> (Archimed   , Jephter    ) -> (Jephter    , Joshua     ) -> (Joshua     , null) -> NULL
+Table [1][105]: (dummyNode, Nahian     ) -> (Nahian     , Jamil      ) -> (Jamil      , Edwin      ) -> (Edwin      , Yulin      ) -> (Yulin      , Kevin      ) -> (Kevin      , Umair      ) -> (Umair      , Christopher) -> (Christopher, Christos   ) -> (Christos   , null) -> NULL
+Table [1][108]: (dummyNode, Kenley     ) -> (Kenley     , Shelley    ) -> (Shelley    , Carlos     ) -> (Carlos     , null) -> NULL
+Table [1][109]: (dummyNode, Hammad     ) -> (Hammad     , Thomas     ) -> (Thomas     , null) -> NULL
+Table [1][110]: (dummyNode, Ryan       ) -> (Ryan       , Juan       ) -> (Juan       , Zaynab     ) -> (Zaynab     , Hyungbin   ) -> (Hyungbin   , Jianhui    ) -> (Jianhui    , Gurnoor    ) -> (Gurnoor    , null) -> NULL
+Table [1][111]: (dummyNode, Jason      ) -> (Jason      , Aaron      ) -> (Aaron      , Jason      ) -> (Jason      , null) -> NULL
+Table [1][115]: (dummyNode, Russell    ) -> (Russell    , null) -> NULL
+Table [1][116]: (dummyNode, Bret       ) -> (Bret       , Nectario   ) -> (Nectario   , Matthew    ) -> (Matthew    , Matthew    ) -> (Matthew    , Martin     ) -> (Martin     , Justin     ) -> (Justin     , Weiting    ) -> (Weiting    , null) -> NULL
+Table [1][118]: (dummyNode, Steven     ) -> (Steven     , Calvin     ) -> (Calvin     , null) -> NULL
+Table [1][119]: (dummyNode, Jiawei     ) -> (Jiawei     , null) -> NULL
+Table [1][120]: (dummyNode, Alexis     ) -> (Alexis     , null) -> NULL
+Table [1][121]: (dummyNode, Krzysztof  ) -> (Krzysztof  , null) -> NULL
+Table [1][122]: (dummyNode, Tenzin     ) -> (Tenzin     , null) -> NULL
+
+Table [0][32]: (dummyNode, Ye         ) -> (Ye         , null) -> NULL
+Table [0][97]: (dummyNode, Shadman    ) -> (Shadman    , Shahan     ) -> (Shahan     , Umair      ) -> (Umair      , Ryan       ) -> (Ryan       , Juan       ) -> (Juan       , Jianhui    ) -> (Jianhui    , Jiawei     ) -> (Jiawei     , null) -> NULL
+Table [0][98]: (dummyNode, Robert     ) -> (Robert     , Roberto    ) -> (Roberto    , null) -> NULL
+Table [0][99]: (dummyNode, Michael    ) -> (Michael    , Archimed   ) -> (Archimed   , Nectario   ) -> (Nectario   , null) -> NULL
+Table [0][101]: (dummyNode, Frederick  ) -> (Frederick  , Abeesh     ) -> (Abeesh     , Shelley    ) -> (Shelley    , Bret       ) -> (Bret       , Steven     ) -> (Steven     , Alexis     ) -> (Alexis     , null) -> NULL
+Table [0][103]: (dummyNode, Angel      ) -> (Angel      , null) -> NULL
+Table [0][104]: (dummyNode, Yuhang     ) -> (Yuhang     , Asher      ) -> (Asher      , Nahian     ) -> (Nahian     , null) -> NULL
+Table [0][105]: (dummyNode, Lei        ) -> (Lei        , Lei        ) -> (Lei        , Naiem      ) -> (Naiem      , Weiting    ) -> (Weiting    , null) -> NULL
+Table [0][106]: (dummyNode, Bijaya     ) -> (Bijaya     , Rajendra   ) -> (Rajendra   , null) -> NULL
+Table [0][108]: (dummyNode, Wilber     ) -> (Wilber     , Talha      ) -> (Talha      , Yulin      ) -> (Yulin      , Calvin     ) -> (Calvin     , null) -> NULL
+Table [0][109]: (dummyNode, Jamil      ) -> (Jamil      , Hammad     ) -> (Hammad     , null) -> NULL
+Table [0][110]: (dummyNode, Jonathan   ) -> (Jonathan   , Vincenzo   ) -> (Vincenzo   , Wong       ) -> (Wong       , Eunhee     ) -> (Eunhee     , Kenley     ) -> (Kenley     , Tenzin     ) -> (Tenzin     , null) -> NULL
+Table [0][111]: (dummyNode, Thomas     ) -> (Thomas     , null) -> NULL
+Table [0][112]: (dummyNode, Rupert     ) -> (Rupert     , Jephter    ) -> (Jephter    , null) -> NULL
+Table [0][114]: (dummyNode, Jordon     ) -> (Jordon     , Amreen     ) -> (Amreen     , Murgray    ) -> (Murgray    , Christopher) -> (Christopher, Christos   ) -> (Christos   , Carlos     ) -> (Carlos     , Gurnoor    ) -> (Gurnoor    , Aaron      ) -> (Aaron      , Martin     ) -> (Martin     , null) -> NULL
+Table [0][115]: (dummyNode, Rashad     ) -> (Rashad     , Joshua     ) -> (Joshua     , Jason      ) -> (Jason      , Jason      ) -> (Jason      , Russell    ) -> (Russell    , Justin     ) -> (Justin     , null) -> NULL
+Table [0][116]: (dummyNode, Matthew    ) -> (Matthew    , Matthew    ) -> (Matthew    , null) -> NULL
+Table [0][117]: (dummyNode, Hyungbin   ) -> (Hyungbin   , null) -> NULL
+Table [0][118]: (dummyNode, Kevin      ) -> (Kevin      , null) -> NULL
+Table [0][119]: (dummyNode, Edwin      ) -> (Edwin      , null) -> NULL
+Table [0][121]: (dummyNode, Zaynab     ) -> (Zaynab     , null) -> NULL
+Table [0][122]: (dummyNode, Krzysztof  ) -> (Krzysztof  , null) -> NULL
+
+Table [1][97]: (dummyNode, Nahian     ) -> (Nahian     , Naiem      ) -> (Naiem      , Rajendra   ) -> (Rajendra   , Talha      ) -> (Talha      , Calvin     ) -> (Calvin     , Jamil      ) -> (Jamil      , Hammad     ) -> (Hammad     , Carlos     ) -> (Carlos     , Aaron      ) -> (Aaron      , Martin     ) -> (Martin     , Rashad     ) -> (Rashad     , Jason      ) -> (Jason      , Jason      ) -> (Jason      , Matthew    ) -> (Matthew    , Matthew    ) -> (Matthew    , Zaynab     ) -> (Zaynab     , null) -> NULL
+Table [1][98]: (dummyNode, Abeesh     ) -> (Abeesh     , null) -> NULL
+Table [1][100]: (dummyNode, Edwin      ) -> (Edwin      , null) -> NULL
+Table [1][101]: (dummyNode, Ye         ) -> (Ye         , Nectario   ) -> (Nectario   , Lei        ) -> (Lei        , Lei        ) -> (Lei        , Weiting    ) -> (Weiting    , Kenley     ) -> (Kenley     , Tenzin     ) -> (Tenzin     , Jephter    ) -> (Jephter    , Kevin      ) -> (Kevin      , null) -> NULL
+Table [1][104]: (dummyNode, Shadman    ) -> (Shadman    , Shahan     ) -> (Shahan     , Shelley    ) -> (Shelley    , Thomas     ) -> (Thomas     , Christopher) -> (Christopher, Christos   ) -> (Christos   , null) -> NULL
+Table [1][105]: (dummyNode, Jianhui    ) -> (Jianhui    , Jiawei     ) -> (Jiawei     , Michael    ) -> (Michael    , Bijaya     ) -> (Bijaya     , Wilber     ) -> (Wilber     , Vincenzo   ) -> (Vincenzo   , null) -> NULL
+Table [1][108]: (dummyNode, Alexis     ) -> (Alexis     , null) -> NULL
+Table [1][109]: (dummyNode, Umair      ) -> (Umair      , Amreen     ) -> (Amreen     , null) -> NULL
+Table [1][110]: (dummyNode, Angel      ) -> (Angel      , null) -> NULL
+Table [1][111]: (dummyNode, Robert     ) -> (Robert     , Roberto    ) -> (Roberto    , Jonathan   ) -> (Jonathan   , Wong       ) -> (Wong       , Jordon     ) -> (Jordon     , Joshua     ) -> (Joshua     , null) -> NULL
+Table [1][114]: (dummyNode, Archimed   ) -> (Archimed   , Frederick  ) -> (Frederick  , Bret       ) -> (Bret       , Krzysztof  ) -> (Krzysztof  , null) -> NULL
+Table [1][115]: (dummyNode, Asher      ) -> (Asher      , null) -> NULL
+Table [1][116]: (dummyNode, Steven     ) -> (Steven     , null) -> NULL
+Table [1][117]: (dummyNode, Juan       ) -> (Juan       , Yuhang     ) -> (Yuhang     , Yulin      ) -> (Yulin      , Eunhee     ) -> (Eunhee     , Rupert     ) -> (Rupert     , Murgray    ) -> (Murgray    , Gurnoor    ) -> (Gurnoor    , Russell    ) -> (Russell    , Justin     ) -> (Justin     , null) -> NULL
+Table [1][121]: (dummyNode, Ryan       ) -> (Ryan       , Hyungbin   ) -> (Hyungbin   , null) -> NULL
+
+Table [0][65]: (dummyNode, Aaron      ) -> (Aaron      , Abeesh     ) -> (Abeesh     , Alexis     ) -> (Alexis     , Amreen     ) -> (Amreen     , Angel      ) -> (Angel      , Archimed   ) -> (Archimed   , Asher      ) -> (Asher      , null) -> NULL
+Table [0][66]: (dummyNode, Bijaya     ) -> (Bijaya     , Bret       ) -> (Bret       , null) -> NULL
+Table [0][67]: (dummyNode, Calvin     ) -> (Calvin     , Carlos     ) -> (Carlos     , Christopher) -> (Christopher, Christos   ) -> (Christos   , null) -> NULL
+Table [0][69]: (dummyNode, Edwin      ) -> (Edwin      , Eunhee     ) -> (Eunhee     , null) -> NULL
+Table [0][70]: (dummyNode, Frederick  ) -> (Frederick  , null) -> NULL
+Table [0][71]: (dummyNode, Gurnoor    ) -> (Gurnoor    , null) -> NULL
+Table [0][72]: (dummyNode, Hammad     ) -> (Hammad     , Hyungbin   ) -> (Hyungbin   , null) -> NULL
+Table [0][74]: (dummyNode, Jamil      ) -> (Jamil      , Jason      ) -> (Jason      , Jason      ) -> (Jason      , Jephter    ) -> (Jephter    , Jianhui    ) -> (Jianhui    , Jiawei     ) -> (Jiawei     , Jonathan   ) -> (Jonathan   , Jordon     ) -> (Jordon     , Joshua     ) -> (Joshua     , Juan       ) -> (Juan       , Justin     ) -> (Justin     , null) -> NULL
+Table [0][75]: (dummyNode, Kenley     ) -> (Kenley     , Kevin      ) -> (Kevin      , Krzysztof  ) -> (Krzysztof  , null) -> NULL
+Table [0][76]: (dummyNode, Lei        ) -> (Lei        , Lei        ) -> (Lei        , null) -> NULL
+Table [0][77]: (dummyNode, Martin     ) -> (Martin     , Matthew    ) -> (Matthew    , Matthew    ) -> (Matthew    , Michael    ) -> (Michael    , Murgray    ) -> (Murgray    , null) -> NULL
+Table [0][78]: (dummyNode, Nahian     ) -> (Nahian     , Naiem      ) -> (Naiem      , Nectario   ) -> (Nectario   , null) -> NULL
+Table [0][82]: (dummyNode, Rajendra   ) -> (Rajendra   , Rashad     ) -> (Rashad     , Robert     ) -> (Robert     , Roberto    ) -> (Roberto    , Rupert     ) -> (Rupert     , Russell    ) -> (Russell    , Ryan       ) -> (Ryan       , null) -> NULL
+Table [0][83]: (dummyNode, Shadman    ) -> (Shadman    , Shahan     ) -> (Shahan     , Shelley    ) -> (Shelley    , Steven     ) -> (Steven     , null) -> NULL
+Table [0][84]: (dummyNode, Talha      ) -> (Talha      , Tenzin     ) -> (Tenzin     , Thomas     ) -> (Thomas     , null) -> NULL
+Table [0][85]: (dummyNode, Umair      ) -> (Umair      , null) -> NULL
+Table [0][86]: (dummyNode, Vincenzo   ) -> (Vincenzo   , null) -> NULL
+Table [0][87]: (dummyNode, Weiting    ) -> (Weiting    , Wilber     ) -> (Wilber     , Wong       ) -> (Wong       , null) -> NULL
+Table [0][89]: (dummyNode, Ye         ) -> (Ye         , Yuhang     ) -> (Yuhang     , Yulin      ) -> (Yulin      , null) -> NULL
+Table [0][90]: (dummyNode, Zaynab     ) -> (Zaynab     , null) -> NULL
+
